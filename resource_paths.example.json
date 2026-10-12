@@ -1,0 +1,7 @@
+{
+  "normalized_sources_root": "<NORMALIZED_PUBLIC_SOURCE_ROOT>",
+  "entity_source_root": "<ENTITY_ALIAS_TABLE_ROOT>",
+  "network_source_root": "<PATHWAY_SIGNED_NETWORK_TABLE_ROOT>",
+  "functional_source_root": "<GUIDE_TO_PHARMACOLOGY_EXPORT_ROOT>",
+  "drugcentral_source_root": "<DRUGCENTRAL_EXPORT_ROOT>"
+}

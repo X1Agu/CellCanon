@@ -1,0 +1,23 @@
+{
+  "repo_id": "X1Agu/CellCanon",
+  "files": [
+    {
+      "filename": "cellcanon-expression.zip",
+      "directory": "expression",
+      "bytes": 353254446,
+      "sha256": "1c34f6f156d96b99b16ea144ce71fb68a656c99096f74f331994e20d26767e2b"
+    },
+    {
+      "filename": "cellcanon-metadata.zip",
+      "directory": "metadata",
+      "bytes": 125879,
+      "sha256": "9b001e5ce11910e07197168e66f0917d0bee69117247e5224e13afc7d06f505b"
+    },
+    {
+      "filename": "cellcanon-knowledge.zip",
+      "directory": "knowledge",
+      "bytes": 118708441,
+      "sha256": "814a5133f92c61168370a10394b9767f4104b064320477016f91dc4bcfb9d15d"
+    }
+  ]
+}

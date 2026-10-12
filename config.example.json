@@ -1,0 +1,17 @@
+{
+  "data_root": "<PREPROCESSED_DATA_ROOT>",
+  "metadata_root": "<METADATA_ROOT>",
+  "knowledge_root": "<KNOWLEDGE_ROOT>",
+  "embedding_model_root": "<EMBEDDING_MODEL_ROOT>",
+  "run_root": "<RUN_ROOT>",
+  "compound_registry": "<COMPOUND_REGISTRY_CSV_OR_PARQUET>",
+  "language_model": "",
+  "model_service_endpoint": "",
+  "model_service_credential_env": "",
+  "api_budget": "",
+  "api_rates_per_million": {
+    "input": "",
+    "output": ""
+  },
+  "model_request_options": {}
+}

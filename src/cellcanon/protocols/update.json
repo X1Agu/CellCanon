@@ -1,0 +1,48 @@
+{
+  "continuous": {
+    "kernel": "linear",
+    "drug_mix": 0.5,
+    "ridge": 1.0,
+    "output": "response",
+    "strength": 1.0,
+    "preserve_zero": false
+  },
+  "classes": {
+    "de": {
+      "family": "likelihood",
+      "smoothing": 200.0,
+      "strength": 0.5,
+      "legacy_mix": 0.5,
+      "margin": 0.0,
+      "count_scale": 1.0
+    },
+    "up": {
+      "family": "likelihood",
+      "smoothing": 50.0,
+      "strength": 0.0,
+      "legacy_mix": 0.25,
+      "margin": 0.0,
+      "count_scale": 1.0
+    }
+  },
+  "residual_strengths": {
+    "de_probability": 0.25,
+    "up_probability": 1.0
+  },
+  "features": {
+    "de": {
+      "model": "de_tree7.joblib",
+      "strength": 0.1
+    },
+    "up": {
+      "model": "up_tree7.joblib",
+      "strength": 0.0
+    }
+  },
+  "counts": {
+    "enabled": true,
+    "model": "count_ridge10.joblib",
+    "blend": 0.25,
+    "baseline_scale": 1.25
+  }
+}

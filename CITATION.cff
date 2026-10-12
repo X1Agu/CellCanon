@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "Please cite the associated CellCanon paper when using this software."
+type: software
+title: "CellCanon"
+authors:
+  - family-names: Liang
+    given-names: Zhaokang
+  - family-names: Zhuang
+    given-names: Shuyang
+  - family-names: Jiao
+    given-names: Xiaoran
+  - family-names: Chen
+    given-names: Hao
+license: MIT
+repository-code: "https://github.com/X1Agu/CellCanon"
+preferred-citation:
+  type: conference-paper
+  title: "CellCanon: A Knowledge-Grounded Agent for Cellular Prediction, Explanation, and Updating"
+  authors:
+    - family-names: Liang
+      given-names: Zhaokang
+    - family-names: Zhuang
+      given-names: Shuyang
+    - family-names: Jiao
+      given-names: Xiaoran
+    - family-names: Chen
+      given-names: Hao
+  collection-title: "NeurIPS 2026 Workshop AgenticLS"
+  year: 2026
+  url: "https://openreview.net/forum?id=fRua0VKGhz"
